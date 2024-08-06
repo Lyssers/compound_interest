@@ -2,11 +2,11 @@
 
 1. Compile with `gcc compoundcalc.c -o compoundcalc.o`
 
-2. Run with ./compoundcalc.o
+2. Run with `./compoundcalc.o`
 
 3. Enter the parameters as prompted.
 
-I made this to learn-by-doing some input validation
+I made this to learn-by-doing some basic input validation
 
 So this should handle fairly free-form inputs as long as there are integers, e.g. 
 
